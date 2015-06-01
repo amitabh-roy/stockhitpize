@@ -1,2 +1,2 @@
-# stockhitpize
+# stockhitprize
 Stock charting program
