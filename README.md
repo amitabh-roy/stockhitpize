@@ -1,0 +1,2 @@
+# stockhitpize
+Stock charting program
